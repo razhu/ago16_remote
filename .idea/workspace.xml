@@ -2,121 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13d094b9-818a-4c70-918a-2dc6fb2de15d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/.idea/.generators" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/assets/images/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/controllers/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/mailers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/models/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/models/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/lib/assets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/lib/tasks/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/log/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/controllers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/fixtures/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/helpers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/integration/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/mailers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/models/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/vendor/assets/javascripts/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/vendor/assets/stylesheets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/db/migrate/20140913160455_devise_create_users.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/db/migrate/20140913161130_create_forum_threads.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/db/migrate/20140913161212_create_forum_posts.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/db/migrate/20150205140829_add_deleted_at_to_forum_threads.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/db/migrate/20150205141754_add_deleted_at_to_users.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/public/422.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/public/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/README.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/forum_posts/_form.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/forum_threads/_form.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/forum_posts/_forum_post.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/forum_threads/_forum_thread.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/devise/shared/_links.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/shared/_navbar.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/assets/stylesheets/application.css.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/layouts/application.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/controllers/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/helpers/application_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/initializers/assets.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/lib/tasks/auto_annotate_models.rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/bin/bundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/devise/mailer/confirmation_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/initializers/cookies_serializer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/locales/devise.en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/initializers/devise.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/devise/passwords/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/devise/registrations/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/locales/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/initializers/filter_parameter_logging.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/models/forum_post.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/notification_mailer/forum_post_notification.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/models/forum_post_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/fixtures/forum_posts.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/controllers/forum_threads/forum_posts_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/helpers/forum_posts_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/models/forum_thread.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/models/forum_thread_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/fixtures/forum_threads.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/controllers/forum_threads_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/.idea/gorails2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/lib/tasks/import.rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/forum_threads/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/devise/confirmations/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/devise/passwords/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/devise/registrations/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/devise/sessions/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/devise/unlocks/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/forum_threads/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/mailers/notification_mailer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/mailers/previews/notification_mailer_preview.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/mailers/notification_mailer_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/bin/rails" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/bin/rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/devise/mailer/reset_password_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/routes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/db/schema.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/secrets.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/db/seeds.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/initializers/session_store.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/bin/setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/forum_threads/show.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/bin/spring" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/test_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/text.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/views/devise/mailer/unlock_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/app/models/user.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/models/user_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/users.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/test/fixtures/users.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../gorails2/config/initializers/wrap_parameters.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/Gemfile.lock" afterPath="$PROJECT_DIR$/../gorails2/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/Gemfile" afterPath="$PROJECT_DIR$/../gorails2/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/app/views/forum_posts/_form.html.erb" afterPath="$PROJECT_DIR$/../gorails2/app/views/forum_posts/_form.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/app/views/forum_threads/_form.html.erb" afterPath="$PROJECT_DIR$/../gorails2/app/views/forum_threads/_form.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/../gorails2/app/assets/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/config/application.rb" afterPath="$PROJECT_DIR$/../gorails2/config/application.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/../gorails2/config/initializers/assets.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/app/models/forum_thread.rb" afterPath="$PROJECT_DIR$/../gorails2/app/models/forum_thread.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/app/controllers/forum_threads_controller.rb" afterPath="$PROJECT_DIR$/../gorails2/app/controllers/forum_threads_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/.idea/gorails2.iml" afterPath="$PROJECT_DIR$/../gorails2/.idea/gorails2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/app/views/forum_threads/index.html.erb" afterPath="$PROJECT_DIR$/../gorails2/app/views/forum_threads/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/config/routes.rb" afterPath="$PROJECT_DIR$/../gorails2/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/db/schema.rb" afterPath="$PROJECT_DIR$/../gorails2/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/app/views/forum_threads/show.html.erb" afterPath="$PROJECT_DIR$/../gorails2/app/views/forum_threads/show.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../gorails2/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gorails2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../gorails2/.idea/workspace.xml" />
     </list>
     <ignored path="ago16.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -216,6 +120,48 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ago16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ago16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ago16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ago16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ago16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ago16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ago16" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -403,7 +349,7 @@
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.60678923" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5148515" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
