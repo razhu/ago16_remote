@@ -73,7 +73,22 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.68509614">
                   <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-                  <folding />
+                  <folding>
+                    <marker date="1439762613000" expanded="true" signature="0:130" placeholder=".jumbotron" />
+                    <marker date="1439762613000" expanded="true" signature="132:545" placeholder=".row" />
+                    <marker date="1439762613000" expanded="true" signature="139:272" placeholder=".col-md-4" />
+                    <marker date="1439762613000" expanded="true" signature="153:272" placeholder=".panel.panel-primary" />
+                    <marker date="1439762613000" expanded="true" signature="180:232" placeholder=".panel-heading" />
+                    <marker date="1439762613000" expanded="true" signature="239:272" placeholder=".panel-body" />
+                    <marker date="1439762613000" expanded="true" signature="275:408" placeholder=".col-md-4" />
+                    <marker date="1439762613000" expanded="true" signature="289:408" placeholder=".panel.panel-success" />
+                    <marker date="1439762613000" expanded="true" signature="316:368" placeholder=".panel-heading" />
+                    <marker date="1439762613000" expanded="true" signature="375:408" placeholder=".panel-body" />
+                    <marker date="1439762613000" expanded="true" signature="411:545" placeholder=".col-md-4" />
+                    <marker date="1439762613000" expanded="true" signature="425:545" placeholder=".panel.panel-warning" />
+                    <marker date="1439762613000" expanded="true" signature="452:504" placeholder=".panel-heading" />
+                    <marker date="1439762613000" expanded="true" signature="511:545" placeholder=".panel-body" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -93,7 +108,12 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="-5.0">
                   <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-                  <folding />
+                  <folding>
+                    <marker date="1439762613000" expanded="true" signature="29:1465" placeholder=".container-fluid" />
+                    <marker date="1439762613000" expanded="true" signature="50:356" placeholder=".navbar-header" />
+                    <marker date="1439762613000" expanded="true" signature="361:1465" placeholder="#bs-example-navbar-collapse-1.collapse.navbar-collapse" />
+                    <marker date="1439762613000" expanded="true" signature="1241:1325" placeholder=".form-group" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -464,7 +484,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0">
           <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding />
+          <folding>
+            <marker date="1439762613000" expanded="true" signature="29:1465" placeholder=".container-fluid" />
+            <marker date="1439762613000" expanded="true" signature="50:356" placeholder=".navbar-header" />
+            <marker date="1439762613000" expanded="true" signature="361:1465" placeholder="#bs-example-navbar-collapse-1.collapse.navbar-collapse" />
+            <marker date="1439762613000" expanded="true" signature="1241:1325" placeholder=".form-group" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -472,7 +497,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.68509614">
           <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding />
+          <folding>
+            <marker date="1439762613000" expanded="true" signature="0:130" placeholder=".jumbotron" />
+            <marker date="1439762613000" expanded="true" signature="132:545" placeholder=".row" />
+            <marker date="1439762613000" expanded="true" signature="139:272" placeholder=".col-md-4" />
+            <marker date="1439762613000" expanded="true" signature="153:272" placeholder=".panel.panel-primary" />
+            <marker date="1439762613000" expanded="true" signature="180:232" placeholder=".panel-heading" />
+            <marker date="1439762613000" expanded="true" signature="239:272" placeholder=".panel-body" />
+            <marker date="1439762613000" expanded="true" signature="275:408" placeholder=".col-md-4" />
+            <marker date="1439762613000" expanded="true" signature="289:408" placeholder=".panel.panel-success" />
+            <marker date="1439762613000" expanded="true" signature="316:368" placeholder=".panel-heading" />
+            <marker date="1439762613000" expanded="true" signature="375:408" placeholder=".panel-body" />
+            <marker date="1439762613000" expanded="true" signature="411:545" placeholder=".col-md-4" />
+            <marker date="1439762613000" expanded="true" signature="425:545" placeholder=".panel.panel-warning" />
+            <marker date="1439762613000" expanded="true" signature="452:504" placeholder=".panel-heading" />
+            <marker date="1439762613000" expanded="true" signature="511:545" placeholder=".panel-body" />
+          </folding>
         </state>
       </provider>
     </entry>
