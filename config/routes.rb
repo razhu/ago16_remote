@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+  resources :users
+  resources :articles do
+    resources :comments
+  end
+
   root 'pages#home'
 
   resources :students
